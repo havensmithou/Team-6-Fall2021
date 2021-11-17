@@ -6,4 +6,6 @@
 
 3.A feature taht allow reassignment of roles 
 
-4.A feature that allow users to challenge other user 
+4.A feature that allow users to challenge other user
+
+5.A feature that allow Teacher to check the progress of the student 
