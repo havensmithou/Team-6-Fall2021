@@ -19,3 +19,5 @@
 9.A feature that allows the user to chose an age range for the letter game
 
 10.A feature that allows users to choose level of difficulty
+
+11.A feature that allows different games options for different settings (classroom/social setting)
