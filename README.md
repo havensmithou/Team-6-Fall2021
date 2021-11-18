@@ -4,7 +4,7 @@
 
 2.A feature that can group users and assign roles within the group 
 
-3.A feature taht allow reassignment of roles 
+3.A feature that allow reassignment of roles 
 
 4.A feature that allow users to challenge other user
 
@@ -13,3 +13,6 @@
 6.A feature that allows the teacher to check overall standing of the class
 
 7.A feature that allows the teacher to compare class standings with another teacher's class
+
+8.A feature that allows the user to check and compare personal results
+
