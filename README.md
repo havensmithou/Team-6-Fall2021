@@ -21,3 +21,5 @@
 10. Feature that allows users to choose level of difficulty
 
 11. Feature that allows different games options for different settings (classroom/social setting)
+
+12. Feature that allows use to challenge or connect with other participants in different regions (ie: cities, countries)
