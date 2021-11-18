@@ -8,4 +8,6 @@
 
 4.A feature that allow users to challenge other user
 
-5.A feature that allow Teacher to check the progress of the student 
+5.A feature that allow Teacher to check the progress of the student
+
+6.A feature that allows the teacher to check overall standing of the class
