@@ -16,3 +16,4 @@
 
 8.A feature that allows the user to check and compare personal results
 
+9.A feature that allows the user to chose an age range for the letter game
