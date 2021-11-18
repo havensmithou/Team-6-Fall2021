@@ -1,4 +1,4 @@
-# Team-6-Fall2021
+# Letter Game
 ## Features
 1.A Teachers can create classes
 
